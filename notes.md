@@ -1,8 +1,4 @@
-Below is your **complete, production-ready GitHub README.md** — formatted perfectly, with sections, badges, tables, roadmap, projects, and everything needed for a professional portfolio repository.
 
-You can **copy–paste directly into README.md**.
-
----
 
 # 🚀 Ramesh – 2025 Backend Engineering Roadmap
 
